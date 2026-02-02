@@ -1,0 +1,25 @@
+# macOS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Virtualenvs
+venv/
+.env
+.env.*
+
+# Take-home generated artifacts (keep template clean)
+state/
+data/s3/
+
+# Internal-only reviewer notes (not shared with candidates)
+sightline_internal/

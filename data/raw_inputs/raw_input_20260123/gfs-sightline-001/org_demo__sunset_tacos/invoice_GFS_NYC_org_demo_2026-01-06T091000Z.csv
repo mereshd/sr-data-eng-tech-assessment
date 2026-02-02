@@ -1,0 +1,6 @@
+invoice_id,invoice_date,delivery_date,store_code,distributor_code,item_number,item_description,uom,quantity,unit_price,extended_price,currency
+GFS-9004,2026-01-06,2026-01-06,NYC-001,GFS_NYC,TORT-12IN,"Flour Tortilla 12in",CASE,1,18.50,18.50,USD
+GFS-9004,2026-01-06,2026-01-06,NYC-001,GFS_NYC,AVO-HASS,"Avocado Hass",EA,24,0.93,22.32,USD
+GFS-9005,2026-01-06,2026-01-06,NYC002,GFS_NYC,LIME-FR,"Lime fresh",EA,"1 000",0.20,200.00,USD
+GFS-9006,2026-01-06,2026-01-06,NJ-001,GFS_NYC,SALSA-ROJA-5LB,"Salsa roja prepared 5lb",LB,5,3.10,15.50,USD
+GFS-9007,2026-01-06,2026-01-06,NJ-001,GFS_NYC,TOGO-BOX-9,"To-go Box 9in",EA,-25,0.10,-2.50,USD

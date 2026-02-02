@@ -1,0 +1,6 @@
+invoice_id,invoice_date,delivery_date,store_code,distributor_code,item_number,item_description,uom,quantity,unit_price,extended_price,currency,tax
+GFS-9001,2026-01-05,2026-01-05,NYC001,GFS_NYC,CHKN-THIGH-10,"Chicken thighs (10lb)",LB,10,2.39,,USD,0.00
+GFS-9001,2026-01-05,2026-01-05,NYC001,GFS_NYC,AVO-HASS,"Avocado Hass",EA,30,0.96,28.80,usd,0.00
+GFS-9002,2026/01/05,2026/01/05,NYC-002,GFS_NYC,LIME-FR,"Lime fresh",EA,200,0.21,42.00,USD,0.00
+GFS-9002,2026/01/05,2026/01/05,NYC-002,GFS_NYC,CILANTRO-BUNCH,"Cilantro bunch",EA,80,0.34,27.20,USD,0.00
+GFS-9003,01-05-2026,01-05-2026,NJ001,GFS_NYC,TOGO-BOX-9,"To-go Box 9in",EA,150,0.10,15.00,USD,0.00

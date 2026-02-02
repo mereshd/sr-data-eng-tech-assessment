@@ -1,0 +1,6 @@
+invoice_id,invoice_date,delivery_date,store_code,distributor_code,item_number,item_description,uom,quantity,unit_price,extended_price,currency,promo_discount
+INV-1010,2026-01-07,2026-01-07,NYC-001,SYSCO_NYC,00012345,"Chicken thighs 10lb",LB,12,"$2.38","$28.56",USD,
+INV-1010,2026-01-07,2026-01-07,NYC-001,SYSCO_NYC,AVO-01,"Avocado Hass",EA,48,"0.90","43.20",USD,
+INV-1011,2026-01-07,2026-01-07,NYC-002,SYSCO_NYC,12346,"Flour Tortilla 12in",CASE,1,"18.00","18.00",USD,"-2.00"
+INV-1012,2026-01-07,2026-01-07,NJ-001,SYSCO_NYC,LIME01,"Lime, fresh",EA,200,"0.18","36.00",USD,
+INV-1013,2026-01-07,2026-01-07,NYC-002,SYSCO_NYC,CILA-99,"Cilantro bunch",EA,0,"0.33","0.00",USD,

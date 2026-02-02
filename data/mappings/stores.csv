@@ -1,0 +1,4 @@
+org_id,store_id,store_code,store_name,timezone
+org_demo,store_001,NYC-001,Sunset Tacos - East Village,America/New_York
+org_demo,store_002,NYC-002,Sunset Tacos - Williamsburg,America/New_York
+org_demo,store_003,NJ-001,Sunset Tacos - Hoboken,America/New_York

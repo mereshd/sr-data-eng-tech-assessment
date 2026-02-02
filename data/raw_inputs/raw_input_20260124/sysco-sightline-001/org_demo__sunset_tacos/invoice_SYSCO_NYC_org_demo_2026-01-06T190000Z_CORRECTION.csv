@@ -1,0 +1,3 @@
+invoice_id,invoice_date,delivery_date,store_code,distributor_code,item_number,item_description,uom,quantity,unit_price,extended_price,currency
+INV-1007,2026-01-06,2026-01-06,NYC-002,SYSCO_NYC,LIME01,"Lime, fresh",EA,950,"0.19","180.50",USD
+INV-1007,2026-01-06,2026-01-06,NYC-002,SYSCO_NYC,CILA-99,"Cilantro bunch",EA,75,"0.33","24.75",USD

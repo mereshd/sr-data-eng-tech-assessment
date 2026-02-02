@@ -1,0 +1,8 @@
+org_id,uom,canonical_uom,each_multiplier,notes
+org_demo,EA,EA,1,each
+org_demo,EACH,EA,1,variant
+org_demo,ea,EA,1,lowercase
+org_demo,CS,CS,,case (unknown each conversion)
+org_demo,CASE,CS,,variant
+org_demo,LB,LB,,pounds
+org_demo,LBS,LB,,variant
